@@ -1,0 +1,27 @@
+.profile{
+    height: 250px;
+    border-radius: 50%;
+}
+.heading{
+    display: flex;
+    gap: 300px;
+}
+.about{
+    font-weight: lighter;
+    font-size: medium;
+}
+.pp{
+    margin-left: 300px;
+}
+.edu{
+    margin-left: 300px;
+}
+.tech{
+    margin-left: 300px;
+}
+.bold{
+    font-weight: bold;
+}
+.extra{
+    margin-left: 300px;
+}
